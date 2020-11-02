@@ -52,10 +52,10 @@ Contributor(s):
             </extension>
         </buildExtensions>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>Generico_JM_006_Estabelecimento</name>
+            <name>Generico_JM_013_Produtos_Por_EAN</name>
             <source-roots>
                 <root id="src.dir"/>
-                <root id="src.JM_006_Estabelecimento.dir"/>
+                <root id="src.JM_013_Produtos_Por_EAN.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
